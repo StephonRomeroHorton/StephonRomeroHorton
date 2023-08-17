@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/dc14de6f7c6433ccc8cf7cf124e56650bf2cd9aa7df257ffdd009ec49a5dd7ad/68747470733a2f2f692e696d6775722e636f6d2f333464494a58632e676966)
 <h1 align="center">Hi 👋, I'm Stephon Horton</h1>
 <h3 align="center">An experienced Fullstack Developer</h3>
-<img align="right" width="400" src="https://i.redd.it/ddnm7kmznqd71.gif" alt="">
+<img align="right" width="400" src="https://camo.githubusercontent.com/d6ca90dadaf62b6f2fb75b73dc049cd8859e1a7f65a7921cf8603243de54f361/68747470733a2f2f706670732e67672f6173736574732f62616e6e6572732f383635332d736d696c652e676966" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stephonromerohorton&label=Profile%20views&color=0e75b6&style=flat" alt="stephonromerohorton" /> </p>
 
