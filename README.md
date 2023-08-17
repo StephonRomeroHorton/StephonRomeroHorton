@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
+![MasterHead](https://camo.githubusercontent.com/365c25491be66980bf5399ec714ce98f8a66f7559e86620fa047fd076c77a828/68747470733a2f2f7669736d652e636f2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30332f616e696d6174696f6e2d736f6674776172652d6865616465722d776964652e676966)
 <h1 align="center">Hi 👋, I'm Stephon Horton</h1>
 <h3 align="center">An experienced Fullstack Developer</h3>
 <img align="right" width="400" src="https://pfps.gg/assets/banners/8653-smile.gif" alt="">
