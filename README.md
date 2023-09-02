@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@romerostephon" target="blank"><img src="https://img.shields.io/twitter/follow/@romerostephon?logo=twitter&style=for-the-badge" alt="@romerostephon" /></a> </p>
 
-- 🔭 I’m currently working on **ShopAway app**
+- 🔭 I’m currently working on **The Next Step**
 
 - 🌱 I’m currently learning **Three.js**
 
